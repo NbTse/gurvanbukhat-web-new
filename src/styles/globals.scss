@@ -1,0 +1,121 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "leaflet/dist/leaflet.css";
+@import "react-vertical-timeline-component/style.min.css";
+
+@font-face {
+    font-family: "SF Pro Display";
+    src: url("../../public/font/SFProDisplay-Regular.ttf") format("opentype");
+}
+
+* {
+    font-family: "SF Pro Display", sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    @apply sm:text-lg bg-[#00043c] text-white;
+}
+
+p {
+    @apply text-xl;
+}
+
+.text-stroke {
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 78px;
+    -webkit-text-stroke: 1px #2154ec;
+    -webkit-text-fill-color: transparent;
+}
+
+.logo {
+    @apply max-w-none h-12;
+}
+
+.container {
+    @apply mx-auto px-5;
+}
+
+.sticky {
+    @apply fixed bg-black/50 shadow backdrop-blur-xl;
+}
+
+.header-link {
+    @apply block px-4 py-2 opacity-80 duration-300;
+}
+
+.header-link.active,
+.header-link:hover {
+    @apply opacity-100;
+}
+
+.collapse.show {
+    @apply block;
+}
+
+.toggler-icon {
+    @apply block bg-white relative duration-300;
+    height: 2px;
+    width: 30px;
+    margin: 6px 0;
+}
+
+.active > .toggler-icon:nth-child(1) {
+    @apply transform rotate-45;
+    top: 7px;
+}
+
+.active > .toggler-icon:nth-child(2) {
+    @apply opacity-0;
+}
+
+.active > .toggler-icon:nth-child(3) {
+    top: -8px;
+    transform: rotate(135deg);
+}
+
+.shadow-box {
+    @apply py-20 my-20 rounded-lg shadow-[0_0_70px_#2154EC];
+}
+
+.card-body {
+    @apply bg-[#ffffff14] text-left;
+}
+
+.section-heading {
+    @apply text-2xl sm:text-4xl font-bold tracking-wide uppercase mb-10;
+}
+
+.opacity-image {
+    @apply transition-opacity duration-300 opacity-70 hover:opacity-100;
+}
+
+.home-project {
+    @apply absolute brightness-50 hover:brightness-100 duration-300 hover:scale-105 hover:z-10;
+}
+
+.footer-big-links {
+    @apply mb-3 text-xl font-medium uppercase;
+}
+
+.footer-links {
+    @apply leading-9 opacity-60 duration-300;
+}
+
+.footer-links:hover {
+    @apply opacity-100;
+}
+
+.footer-icon {
+    @apply flex justify-center items-center w-12 h-12 border rounded-full text-sm duration-300;
+}
+
+.footer-icon:hover {
+    @apply bg-primary border-primary;
+}
