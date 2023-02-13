@@ -4,10 +4,7 @@ export default function Document() {
     return (
         <Html lang="en">
             <Head>
-                <meta
-                    name="description"
-                    content="Орхон, Орхон аймаг, Эрдэнэт, Эрдэнэт хот"
-                />
+                <meta name="description" content="Гурван бухат" />
                 <link rel="icon" href="/favicon.png" type="image/png" />
             </Head>
             <body>
