@@ -55,8 +55,8 @@ const AnimatedCharacters = (props: any) => {
         <Tag
             className={`${
                 props.type === "heading1"
-                    ? "text-4xl font-bold uppercase sm:text-7xl"
-                    : "py-12 text-[#B2B2B2] text-2xl sm:text-3xl text-justify"
+                    ? "text-4xl font-bold uppercase lg:text-7xl"
+                    : "py-12 text-[#B2B2B2] text-2xl lg:text-3xl text-justify"
             }`}
         >
             {words.map((word: any, index: any) => {
