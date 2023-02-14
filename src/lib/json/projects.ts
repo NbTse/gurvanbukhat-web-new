@@ -234,7 +234,158 @@ export const argabileg = [
     },
 ];
 
-export const florence = [];
+export const florence = [
+    {
+        hero: {
+            name: "БИЗНЕС ЗЭРЭГЛЭЛИЙН ЦОГЦОЛБОР ХОТХОН",
+            title: "PLUS RESIDENCE",
+            videoSrc: "/videos/plus-residence.mp4",
+            contact: "7509-2222",
+            social: "https://www.facebook.com/Plusresidencesales",
+        },
+
+        introduction: {
+            name: "PLUS RESIDENCE",
+            desc: "Улаанбаатар хотын “А” зэрэглэлийн бүсэд сүндэрлэж буй PLUS Residence нь хоёр блок, 16 давхар, лобби танхим бүхий 183 айлын бизнес зэрэглэлийн төсөл юм. Барилгуудыг холбох гурван давхар үйлчилгээний төвтэй бөгөөд террас дээр нь хүүхдийн тоглоомын талбайг шийдсэнээрээ онцгой. Цаг хугацаа, тав тухыг эрхэмлэгч, ажил хэрэгч хүмүүсийн хэрэгцээнд нийцүүлэн оффис, худалдаа үйлчилгээ, хүүхдийн цэцэрлэг, фитнес төв гэх мэт хэрэгцээт бүхнийг гэрт ойр байдлаар төлөвлөсөн.",
+            imgSrc: "/images/project/hothon/plus/introduction.png",
+        },
+
+        choose: {
+            name: "PLUS RESIDENCE СОНГОХ ШАЛТГААН",
+            desc: "",
+            imgSrc: "/images/project/hothon/plus/choose.png",
+            reasons: [
+                {
+                    name: "Айлын тоо",
+                    type: 1,
+                    count: "183",
+                },
+                {
+                    name: "Үйлчилгээний талбай",
+                    type: 2,
+                    count: "11000м2",
+                },
+                {
+                    name: "Дулаан зогсоол",
+                    type: 2,
+                    count: "78",
+                },
+                {
+                    name: "Хүүхдийн тоглоомын талбай",
+                    type: 1,
+                    count: "1",
+                },
+                {
+                    name: "Ил зогсоол",
+                    type: 1,
+                    count: "46",
+                },
+            ],
+        },
+
+        advantages: {
+            name: "ДАВУУ ТАЛ",
+            desc: "Орон сууц хүүхдийн тоглоомын талбай, автомашины дулаан болон ил зогсоолтойгоос гадна, дэргэдээ зөвхөн оршин суугчдадаа зориулсан хүүхдийн цэцэрлэг шийдсэнээрээ онцлогтой.",
+
+            images: [
+                {
+                    imgSrc: "/images/project/hothon/plus/advantages/1.png",
+                    text: "Хотын А зэрэглэлийн бүс",
+                },
+                {
+                    imgSrc: "/images/project/hothon/plus/advantages/2.png",
+                    text: "Амар тайван, аюулгүй орчин",
+                },
+                {
+                    imgSrc: "/images/project/hothon/plus/advantages/3.png",
+                    text: "Орон сууц, үйлчилгээ хосолсон бизнес консепци",
+                },
+            ],
+        },
+
+        kindergarten: {
+            name: "PLUS CENTER БУЮУ C БЛОК",
+            desc: "Бизнес зэрэглэлийн PLUS Residence орон сууцны төсөл нь архитектурын шинэлэг шийдэл, чанартай хийцэл, төслийн А болон Б блокийг холбох 3 давхар үргэлжилсэн блок зэргээрээ бусад орон сууцаас ялгарах төсөл юм. Холбогч блокийн B1 болон 1-р давхарт айл бүрд хүрэлцээтэй автомашины дулаан зогсоолыг шийдэж өгсөн бол 2-р давхарт эрхэм таны алтан цагийг хэмнэх үүднээс дэлгүүр, ресторан, лоунж, бичиг хэрэг болон орон сууцнаасаа гаралгүй дасгал хөдөлгөөн хийх боломжит бялдаржуулах төв байгуулахаар төлөвлөсөн. 3-р давхартаа Зөвхөн PLUS Residence орон сууцны оршин суугчдын чөлөөт цаг, тав тухыг хангахуйц бүх насныханд зориулсан нэгдсэн Лобби танхимтай. Энэ танхим нь хүүхдийн тоглоомын хэсэг, залуусын номын сан, ахмадуудад зориулсан чөлөөт цагаа өнгөрүүлэх хэсгээс бүрдэх тул таны гэр бүлийн гишүүн бүрийн хэрэгцээ шаардлагад бүрэн нийцнэ.",
+            images: [
+                {
+                    imgSrc: "/images/project/hothon/plus/kindergarten/1.png",
+                },
+                {
+                    imgSrc: "/images/project/hothon/plus/kindergarten/2.png",
+                },
+                {
+                    imgSrc: "/images/project/hothon/plus/kindergarten/3.png",
+                },
+                {
+                    imgSrc: "/images/project/hothon/plus/kindergarten/4.png",
+                },
+                {
+                    imgSrc: "/images/project/hothon/plus/kindergarten/5.png",
+                },
+                {
+                    imgSrc: "/images/project/hothon/plus/kindergarten/6.png",
+                },
+            ],
+        },
+        equipment: {
+            list: [
+                {
+                    name: "Солонгосын алдарт Hyundai брэндийн дотор хаалга",
+                    imgSrc: "/images/project/hothon/plus/equipments/6.png",
+                },
+                {
+                    name: "Хятад улсын шилдэг технологи бүхий гэрийн ухаалаг систем",
+                    imgSrc: "/images/project/hothon/plus/equipments/5.png",
+                },
+                {
+                    name: "Турк улсын дэвшилтэт, технологийн панель радиатор",
+                    imgSrc: "/images/project/hothon/plus/equipments/3.png",
+                },
+                {
+                    name: "Хятад улсын нэрийн хуудас болсон Porta брэндийн сангийн тоноглол",
+                    imgSrc: "/images/project/hothon/plus/equipments/2.png",
+                },
+                {
+                    name: "Хүний биед харшил өгдөггүй эко ханын цаас",
+                    imgSrc: "/images/project/hothon/plus/equipments/4.png",
+                },
+                {
+                    name: "Солонгосын алдарт Hyundai брэндийн дотор хаалга",
+                    imgSrc: "/images/project/hothon/plus/equipments/1.png",
+                },
+            ],
+        },
+        room: {
+            img: "/images/project/hothon/plus/room/1.png",
+            images: [
+                { imgSrc: "/images/project/hothon/plus/room/1(1).png" },
+                { imgSrc: "/images/project/hothon/plus/room/2.png" },
+                { imgSrc: "/images/project/hothon/plus/room/2(1).png" },
+                { imgSrc: "/images/project/hothon/plus/room/3.png" },
+                { imgSrc: "/images/project/hothon/plus/room/3(1).png" },
+                { imgSrc: "/images/project/hothon/plus/room/4.png" },
+                { imgSrc: "/images/project/hothon/plus/room/4(1).png" },
+                { imgSrc: "/images/project/hothon/plus/room/5.png" },
+                { imgSrc: "/images/project/hothon/plus/room/5(1).png" },
+                { imgSrc: "/images/project/hothon/plus/room/6.png" },
+                { imgSrc: "/images/project/hothon/plus/room/7.png" },
+                { imgSrc: "/images/project/hothon/plus/room/bedroom2.png" },
+                { imgSrc: "/images/project/hothon/plus/room/bedroom3.png" },
+                { imgSrc: "/images/project/hothon/plus/room/child-room2.png" },
+                { imgSrc: "/images/project/hothon/plus/room/child-room3.png" },
+                {
+                    imgSrc: "/images/project/hothon/plus/room/closet-room1.png",
+                },
+                { imgSrc: "/images/project/hothon/plus/room/closet-room.png" },
+            ],
+        },
+
+        contact: {
+            name: "Plus residence борлуулалтын албатай холбогдох:",
+            number: "75092222",
+        },
+    },
+];
 
 export const plusresidence = [
     {
