@@ -119,14 +119,6 @@ const Footer = () => {
                                         Dalanzadgad Apartment 2
                                     </Link>
                                 </li>
-                                <li>
-                                    <Link
-                                        href="/project/8"
-                                        className="footer-links"
-                                    >
-                                        Mars Villa
-                                    </Link>
-                                </li>
                             </ul>
                         </div>
                     </div>

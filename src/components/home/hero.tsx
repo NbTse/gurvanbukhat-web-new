@@ -1,7 +1,7 @@
 import CustomMotion from "@/components/common/custom-motion";
 import { motion } from "framer-motion";
 
-import AnimatedCharacters from "./animated-characters";
+import AnimatedCharacters from "@/components/common/animated-characters";
 
 const container = {
     visible: {
@@ -18,25 +18,13 @@ const placeholderText = [
 const Hero = () => {
     return (
         <section className="min-h-screen hero">
-            {/* <div
-                style={{
-                    position: "absolute",
-                    left: "9.29%",
-                    right: "5.33%",
-                    top: "71.2%",
-                    bottom: "-14.13%",
-                    background: "#8349FF",
-                    filter: "blur(150px)",
-                    transform: "matrix(0.95, -0.32, 0.34, 0.94, 0, 0)",
-                }}
-            ></div> */}
             <div className="flex-col px-6 hero-content lg:flex-row-reverse">
                 <img src="/images/home/NEW-LOGO-alpha.gif" alt="" />
+
                 <div>
                     <motion.div
                         className="App"
                         initial="hidden"
-                        // animate="visible"
                         animate={"visible"}
                         variants={container}
                     >

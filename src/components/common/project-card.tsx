@@ -3,7 +3,7 @@ import { FaAngleRight } from "react-icons/fa";
 
 const ProjectCard = ({ id, name, desc, imgSrc }: any) => {
     return (
-        <div className="grid grid-cols md:grid-cols-3 rounded-lg items-center bg-[#ffffff14] gap-10 p-10 mb-10 conic-box border">
+        <div className="grid grid-cols md:grid-cols-3 items-center bg-[#ffffff14] gap-10 p-10 mb-10 conic">
             <div className="md:col-span-1">
                 <img src={`/images/project/${imgSrc}.png`} alt="" />
             </div>
