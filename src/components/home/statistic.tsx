@@ -121,9 +121,17 @@ const Statistic = () => {
                                     enableScrollSpy={true}
                                     scrollSpyOnce={true}
                                     duration={2}
-                                    className="counter"
+                                    className="hidden sm:block counter"
                                     suffix="+"
                                     end={100000}
+                                />
+                                <CountUp
+                                    enableScrollSpy={true}
+                                    scrollSpyOnce={true}
+                                    duration={2}
+                                    className="block sm:hidden counter"
+                                    suffix="K+"
+                                    end={100}
                                 />
                             </p>
                             <p>Ашиглалтанд оруулсан мкв</p>

@@ -4,7 +4,7 @@ import CustomMotion from "@/components/common/custom-motion";
 
 const Company = () => {
     return (
-        <section className="container pt-20 text-center">
+        <section className="container pt-40 text-center">
             <CustomMotion>
                 <h4 className="section-heading">Салбар компаниуд</h4>
                 <div className="grid grid-cols-2 gap-8 sm:grid-cols-4">

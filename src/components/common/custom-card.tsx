@@ -1,6 +1,6 @@
 const CustomCard = ({ name, subname, imgSrc }: any) => {
     return (
-        <div className="rounded-xl card duration-300 hover:shadow-[0_0_30px_#2154EC]">
+        <div className="rounded-xl card duration-300 hover:shadow-[0_0_30px_#2154EC] hover:scale-105">
             <figure>
                 <img src={imgSrc} alt="Shoes" />
             </figure>
