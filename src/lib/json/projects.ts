@@ -75,12 +75,15 @@ export const argabileg = [
             images: [
                 {
                     imgSrc: "/images/project/hothon/argabileg/advantages/1.png",
+                    text: "Гэр бүл хөгжлийн төвтэй",
                 },
                 {
                     imgSrc: "/images/project/hothon/argabileg/advantages/2.png",
+                    text: "Амар тайван, аюулгүй орчин",
                 },
                 {
                     imgSrc: "/images/project/hothon/argabileg/advantages/3.png",
+                    text: "Хүүхдэд ээлтэй орчин",
                 },
             ],
         },
@@ -287,10 +290,17 @@ export const plusresidence = [
             desc: "Орон сууц хүүхдийн тоглоомын талбай, автомашины дулаан болон ил зогсоолтойгоос гадна, дэргэдээ зөвхөн оршин суугчдадаа зориулсан хүүхдийн цэцэрлэг шийдсэнээрээ онцлогтой.",
 
             images: [
-                { imgSrc: "/images/project/hothon/plus/advantages/1.png" },
-                { imgSrc: "/images/project/hothon/plus/advantages/2.png" },
+                {
+                    imgSrc: "/images/project/hothon/plus/advantages/1.png",
+                    text: "Хотын А зэрэглэлийн бүс",
+                },
+                {
+                    imgSrc: "/images/project/hothon/plus/advantages/2.png",
+                    text: "Амар тайван, аюулгүй орчин",
+                },
                 {
                     imgSrc: "/images/project/hothon/plus/advantages/3.png",
+                    text: "Орон сууц, үйлчилгээ хосолсон бизнес консепци",
                 },
             ],
         },
@@ -435,12 +445,15 @@ export const plusapartment = [
             images: [
                 {
                     imgSrc: "/images/project/hothon/plus-apartment/advantages/1.png",
+                    text: "Чухал бүхэнтэй ойр алтан байршил",
                 },
                 {
                     imgSrc: "/images/project/hothon/plus-apartment/advantages/2.png",
+                    text: "Үзэгдэх орчин хязгаарлагдахгүй, харагдац сайтай",
                 },
                 {
                     imgSrc: "/images/project/hothon/plus-apartment/advantages/3.png",
+                    text: "Нэгдсэн худалдаа үйлчилгээтэй ойрхон",
                 },
             ],
         },
@@ -636,10 +649,17 @@ export const lux = [
             desc: "Гаднаа хүүхдийн тоглоомын талбай, автомашины зогсоолтойгоор шийдсэн нь гэр бүлийн гишүүн бүрийн хэрэгцээнд нийцсэн төлөвлөлт юм.",
 
             images: [
-                { imgSrc: "/images/project/hothon/lux16/advantages/1.png" },
-                { imgSrc: "/images/project/hothon/lux16/advantages/2.png" },
+                {
+                    imgSrc: "/images/project/hothon/lux16/advantages/1.png",
+                    text: "Гэр бүл хөгжлийн төвтэй",
+                },
+                {
+                    imgSrc: "/images/project/hothon/lux16/advantages/2.png",
+                    text: "Өрөөний зохион байгуулалт",
+                },
                 {
                     imgSrc: "/images/project/hothon/lux16/advantages/3.png",
+                    text: "Ухаалаг цоож, домофон систем",
                 },
             ],
         },
@@ -720,10 +740,17 @@ export const admiral = [
             desc: "Гаднаа хүүхдийн тоглоомын талбай, автомашины зогсоолтойгоор шийдсэн нь гэр бүлийн гишүүн бүрийн хэрэгцээнд нийцсэн төлөвлөлт юм.",
 
             images: [
-                { imgSrc: "/images/project/hothon/admiral/advantages/1.png" },
-                { imgSrc: "/images/project/hothon/admiral/advantages/2.png" },
+                {
+                    imgSrc: "/images/project/hothon/admiral/advantages/1.png",
+                    text: "Өрөөний зохион байгуулалт",
+                },
+                {
+                    imgSrc: "/images/project/hothon/admiral/advantages/2.png",
+                    text: "Ухаалаг цоож, домофон систем",
+                },
                 {
                     imgSrc: "/images/project/hothon/admiral/advantages/3.png",
+                    text: "Үзэгдэх орчин хязгааралагдахгүй, харагдац сайтай",
                 },
             ],
         },
@@ -800,12 +827,15 @@ export const dalanzadgad = [
             images: [
                 {
                     imgSrc: "/images/project/hothon/dalanzadgad/advantages/1.png",
+                    text: "Гэр бүл хөгжлийн төвтэй100% бүрэн цутгамал хийцлэлтэй",
                 },
                 {
                     imgSrc: "/images/project/hothon/dalanzadgad/advantages/2.png",
+                    text: "8 баллын газар хөдлөлтөд тэсвэртэй",
                 },
                 {
                     imgSrc: "/images/project/hothon/dalanzadgad/advantages/3.png",
+                    text: "Давхартаа 5 айлтай",
                 },
             ],
         },

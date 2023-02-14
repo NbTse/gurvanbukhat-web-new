@@ -1,7 +1,9 @@
 import type { NextPage } from "next";
 import { useRouter } from "next/router";
 
+import CustomMotion from "@/components/common/custom-motion";
 import ProjectDetailHero from "@/components/project-detail/hero";
+import ProjectMobileHero from "@/components/project-detail/mobile-hero";
 import ProjectAdvantages from "@/components/project-detail/project-advantages";
 import ProjectChoose from "@/components/project-detail/project-choose";
 import ProjectCommunityCenter from "@/components/project-detail/project-community-center";
@@ -44,16 +46,35 @@ const ProjectDetail: NextPage = () => {
 
     return project ? (
         <>
-            <ProjectDetailHero project={project} />
-            <ProjectIntroduction project={project} />
-            {/* <ProjectChoose project={project} /> */}
-            {/* <ProjectAdvantages project={project} /> */}
-            <ProjectKindergarten project={project} />
-            {/* <ProjectCommunityCenter project={project} /> */}
-            <ProjectRoom project={project} />
-            <ProjectContact project={project} />
-            <ProjectLocation />
-            <ProjectContactSales project={project} />
+            <div className="hidden lg:block">
+                <ProjectDetailHero project={project} />
+            </div>
+            <ProjectMobileHero project={project} />
+            <CustomMotion>
+                <ProjectIntroduction project={project} />
+            </CustomMotion>
+            <ProjectChoose project={project} />
+            <CustomMotion>
+                <ProjectAdvantages project={project} />
+            </CustomMotion>
+            <CustomMotion>
+                <ProjectKindergarten project={project} />
+            </CustomMotion>
+            <CustomMotion>
+                <ProjectCommunityCenter project={project} />
+            </CustomMotion>
+            <CustomMotion>
+                <ProjectRoom project={project} />
+            </CustomMotion>
+            <CustomMotion>
+                <ProjectContact project={project} />
+            </CustomMotion>
+            <CustomMotion>
+                <ProjectLocation />
+            </CustomMotion>
+            <CustomMotion>
+                <ProjectContactSales project={project} />
+            </CustomMotion>
         </>
     ) : null;
 };

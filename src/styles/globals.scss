@@ -5,6 +5,12 @@
 @import "leaflet/dist/leaflet.css";
 @import "react-vertical-timeline-component/style.min.css";
 @import "react-responsive-carousel/lib/styles/carousel.min.css";
+@import "swiper/css";
+@import "swiper/css/pagination";
+@import "swiper/css/navigation";
+@import "swiper/css/free-mode";
+@import "swiper/css/thumbs";
+@import "swiper/css/effect-creative";
 
 @font-face {
     font-family: "SF Pro Display";
@@ -217,4 +223,36 @@ p {
 .carousel .thumb:hover {
     border: none;
     @apply brightness-100;
+}
+
+.swiper-button {
+    position: absolute;
+    top: calc(50% - 20px);
+    z-index: 10;
+    cursor: pointer;
+}
+
+.swiper-button img {
+    width: 40px;
+    height: 40px;
+}
+
+.image-swiper-button-prev {
+    left: 10px;
+}
+
+.image-swiper-button-next {
+    right: 10px;
+}
+
+.swiper-button-disabled {
+    opacity: 0.5;
+}
+
+.box-1 {
+    @apply px-[20px] py-[20px] bg-transparent text-center;
+}
+
+.box-2 {
+    @apply px-[20px] py-[20px] bg-[#ffffff14] text-center;
 }

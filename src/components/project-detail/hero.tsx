@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 export default function ProjectDetailHero({ project }: any) {
     return (
-        <section className="relative flex items-center justify-center h-screen mb-12 overflow-hidden">
+        <section className="relative flex items-center justify-center h-screen mb-10 overflow-hidden">
             <div className="relative z-30 flex justify-center mx-auto max-w-7xl">
                 <motion.div
                     className="items-center inline-block p-3 pt-0 mx-auto max-w-8xl lg:flex"

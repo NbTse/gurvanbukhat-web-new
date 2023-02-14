@@ -5,7 +5,22 @@ export default function ProjectKindergarten({ project }: any) {
         <>
             {project[0]?.kindergarten && (
                 <section className="container py-10">
-                    <div className="grid items-center gap-10 grid-cols md:grid-cols-2">
+                    <div className="grid items-center grid-cols-1 gap-10 md:grid-cols-2">
+                        <Carousel autoPlay useKeyboardArrows swipeable={true}>
+                            {project &&
+                                project[0].kindergarten.images?.map(
+                                    (item: any, index: any) => {
+                                        return (
+                                            <img
+                                                src={item.imgSrc}
+                                                alt=""
+                                                key={index}
+                                            />
+                                        );
+                                    }
+                                )}
+                        </Carousel>
+
                         <div>
                             <p className="!mb-10 section-heading !text-left">
                                 {project && project[0].kindergarten.name}
@@ -24,21 +39,6 @@ export default function ProjectKindergarten({ project }: any) {
                                     )}
                             </ul>
                         </div>
-
-                        <Carousel autoPlay useKeyboardArrows swipeable={true}>
-                            {project &&
-                                project[0].kindergarten.images?.map(
-                                    (item: any, index: any) => {
-                                        return (
-                                            <img
-                                                src={item.imgSrc}
-                                                alt=""
-                                                key={index}
-                                            />
-                                        );
-                                    }
-                                )}
-                        </Carousel>
                     </div>
                 </section>
             )}
