@@ -190,7 +190,12 @@ const Footer = () => {
 
                     <ul className="flex items-center">
                         <li className="mx-2">
-                            <a href="#" className="footer-icon">
+                            <a
+                                href="https://www.facebook.com/Gurvan.Bukhat.Group"
+                                target="_blank"
+                                rel="noreferrer"
+                                className="footer-icon"
+                            >
                                 <TfiFacebook />
                             </a>
                         </li>

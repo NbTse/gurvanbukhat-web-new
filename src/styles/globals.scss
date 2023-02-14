@@ -4,6 +4,7 @@
 
 @import "leaflet/dist/leaflet.css";
 @import "react-vertical-timeline-component/style.min.css";
+@import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 @font-face {
     font-family: "SF Pro Display";
@@ -205,4 +206,15 @@ p {
         --gradX: 50%;
         --gradY: 0%;
     }
+}
+
+.carousel .thumb {
+    border: none;
+    @apply brightness-50;
+}
+
+.carousel .thumb.selected,
+.carousel .thumb:hover {
+    border: none;
+    @apply brightness-100;
 }
