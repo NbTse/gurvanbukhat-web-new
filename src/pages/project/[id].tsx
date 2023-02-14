@@ -13,12 +13,13 @@ import ProjectLocation from "@/components/project-detail/project-location";
 import ProjectRoom from "@/components/project-detail/project-room";
 
 import {
-    admiral,
     argabileg,
-    dalanzadgad,
-    lux,
-    plusapartment,
+    florence,
     plusresidence,
+    plusapartment,
+    lux,
+    admiral,
+    dalanzadgad,
 } from "@/lib/json/projects";
 
 const ProjectDetail: NextPage = () => {
@@ -28,14 +29,16 @@ const ProjectDetail: NextPage = () => {
         id === "1"
             ? argabileg
             : id === "2"
-            ? plusresidence
+            ? florence
             : id === "3"
-            ? plusapartment
+            ? plusresidence
             : id === "4"
-            ? lux
+            ? plusapartment
             : id === "5"
-            ? admiral
+            ? lux
             : id === "6"
+            ? admiral
+            : id === "7"
             ? dalanzadgad
             : "";
 

@@ -231,6 +231,8 @@ export const argabileg = [
     },
 ];
 
+export const florence = [];
+
 export const plusresidence = [
     {
         hero: {
