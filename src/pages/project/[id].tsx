@@ -49,7 +49,9 @@ const ProjectDetail: NextPage = () => {
             <div className="hidden lg:block">
                 <ProjectDetailHero project={project} />
             </div>
-            <ProjectMobileHero project={project} />
+            <CustomMotion>
+                <ProjectMobileHero project={project} />
+            </CustomMotion>
             <CustomMotion>
                 <ProjectIntroduction project={project} />
             </CustomMotion>

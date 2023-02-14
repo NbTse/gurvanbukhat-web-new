@@ -23,7 +23,6 @@ const Hero = () => {
 
                 <div>
                     <motion.div
-                        className="App"
                         initial="hidden"
                         animate={"visible"}
                         variants={container}

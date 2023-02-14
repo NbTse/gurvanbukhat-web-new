@@ -11,10 +11,10 @@ export default function ProjectChoose({ project }: any) {
                         />
 
                         <div>
-                            <p className="!mb-10 section-heading !text-left">
+                            <p className="!mb-10 section-heading !text-left mx-5">
                                 {project && project[0].choose.name}
                             </p>
-                            <p className="mb-10 text-justify">
+                            <p className="mx-5 mb-10 text-justify">
                                 {project && project[0].choose.desc}
                             </p>
 

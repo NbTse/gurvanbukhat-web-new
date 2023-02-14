@@ -9,36 +9,32 @@ export default function ProjectMobileHero({ project, children }: any) {
                     <p className="mt-8 mb-12 lg:text-[56px] text-[20px] text-white font-bold">
                         {project && project[0].hero.title}
                     </p>
-                    <div className="flex gap-4">
-                        <div className="mr-10">
-                            <a
-                                href={project && project[0].hero.social}
-                                target="_blank"
-                                rel="noreferrer"
-                            >
-                                <button className="btn btn-outline btn-primary">
-                                    <img
-                                        src="/images/project/icons/message.svg"
-                                        alt="contact"
-                                        className="mr-2"
-                                    />
-                                    Холбоо барих
-                                </button>
-                            </a>
-                        </div>
+                    <div className="grid grid-cols-1 gap-4">
+                        <a
+                            href={project && project[0].hero.social}
+                            target="_blank"
+                            rel="noreferrer"
+                        >
+                            <button className="btn btn-outline btn-primary">
+                                <img
+                                    src="/images/project/icons/message.svg"
+                                    alt="contact"
+                                    className="mr-2"
+                                />
+                                Холбоо барих
+                            </button>
+                        </a>
 
-                        <div>
-                            <a href={`tel://${project[0].contact.number}`}>
-                                <button className="btn btn-primary">
-                                    <img
-                                        src="/images/project/icons/contact.svg"
-                                        alt="contact"
-                                        className="mr-2"
-                                    />
-                                    {project && project[0].hero.contact}
-                                </button>
-                            </a>
-                        </div>
+                        <a href={`tel://${project[0].contact.number}`}>
+                            <button className="btn btn-primary">
+                                <img
+                                    src="/images/project/icons/contact.svg"
+                                    alt="contact"
+                                    className="mr-2"
+                                />
+                                {project && project[0].hero.contact}
+                            </button>
+                        </a>
                     </div>
                     <div>{children}</div>
                 </div>

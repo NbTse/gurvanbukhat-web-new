@@ -11,8 +11,8 @@ export default function ProjectContact({ project }: any) {
                                 <h4 className="section-heading">
                                     {project && project[0].contact.name}
                                 </h4>
-                                <div className="flex">
-                                    <div className="mr-10">
+                                <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
+                                    <div className="mx-auto">
                                         <a
                                             href={
                                                 project &&
@@ -32,7 +32,7 @@ export default function ProjectContact({ project }: any) {
                                         </a>
                                     </div>
 
-                                    <div>
+                                    <div className="mx-auto">
                                         <a
                                             href={`tel://${project[0].contact.number}`}
                                         >

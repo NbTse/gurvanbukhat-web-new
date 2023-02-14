@@ -34,7 +34,7 @@ p {
 }
 
 .word-wrapper {
-    white-space: nowrap;
+    display: inline-block;
 }
 
 .text-stroke {
@@ -250,9 +250,9 @@ p {
 }
 
 .box-1 {
-    @apply px-[20px] py-[20px] bg-transparent text-center;
+    @apply py-[20px] bg-transparent text-center;
 }
 
 .box-2 {
-    @apply px-[20px] py-[20px] bg-[#ffffff14] text-center;
+    @apply py-[20px] bg-[#ffffff14] text-center;
 }

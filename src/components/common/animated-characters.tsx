@@ -84,7 +84,6 @@ const AnimatedCharacters = (props: any) => {
                     </Wrapper>
                 );
             })}
-            {/* {} */}
         </Tag>
     );
 };

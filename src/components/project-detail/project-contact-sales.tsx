@@ -2,7 +2,7 @@ export default function ProjectContactSales({ project }: any) {
     return (
         <>
             <section className="container my-10">
-                <div className="max-w-full mx-auto md:max-w-xl bg-[#ffffff14] p-10 rounded-lg">
+                <div className="max-w-full mx-auto md:max-w-xl bg-[#ffffff14] p-5 sm:p-10 rounded-lg">
                     <h4 className="mb-4 text-2xl font-bold text-center">
                         Борлуулалтын албатай холбогдох
                     </h4>
