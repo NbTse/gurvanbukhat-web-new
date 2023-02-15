@@ -289,41 +289,26 @@ export const florence = [
 
             images: [
                 {
-                    imgSrc: "/images/project/hothon/plus/advantages/1.png",
+                    imgSrc: "/images/project/hothon/florence/advantages/1.png",
                     text: "Хүүхдэд ээлтэй орчин",
                 },
                 {
-                    imgSrc: "/images/project/hothon/plus/advantages/2.png",
+                    imgSrc: "/images/project/hothon/florence/advantages/2.png",
                     text: "Сургууль, цэцэрлэг, төрийн байгууллагуудтай ойрхон",
                 },
                 {
-                    imgSrc: "/images/project/hothon/plus/advantages/3.png",
+                    imgSrc: "/images/project/hothon/florence/advantages/3.png",
                     text: "Зах зээлийн бодит үнэ / Зөв хөрөнгө оруулалт",
                 },
             ],
         },
         room: {
-            img: "/images/project/hothon/plus/room/1.png",
+            img: "/images/project/hothon/florence/room/1.png",
             images: [
-                { imgSrc: "/images/project/hothon/plus/room/1(1).png" },
-                { imgSrc: "/images/project/hothon/plus/room/2.png" },
-                { imgSrc: "/images/project/hothon/plus/room/2(1).png" },
-                { imgSrc: "/images/project/hothon/plus/room/3.png" },
-                { imgSrc: "/images/project/hothon/plus/room/3(1).png" },
-                { imgSrc: "/images/project/hothon/plus/room/4.png" },
-                { imgSrc: "/images/project/hothon/plus/room/4(1).png" },
-                { imgSrc: "/images/project/hothon/plus/room/5.png" },
-                { imgSrc: "/images/project/hothon/plus/room/5(1).png" },
-                { imgSrc: "/images/project/hothon/plus/room/6.png" },
-                { imgSrc: "/images/project/hothon/plus/room/7.png" },
-                { imgSrc: "/images/project/hothon/plus/room/bedroom2.png" },
-                { imgSrc: "/images/project/hothon/plus/room/bedroom3.png" },
-                { imgSrc: "/images/project/hothon/plus/room/child-room2.png" },
-                { imgSrc: "/images/project/hothon/plus/room/child-room3.png" },
-                {
-                    imgSrc: "/images/project/hothon/plus/room/closet-room1.png",
-                },
-                { imgSrc: "/images/project/hothon/plus/room/closet-room.png" },
+                { imgSrc: "/images/project/hothon/florence/room/1.png" },
+                { imgSrc: "/images/project/hothon/florence/room/2.png" },
+                { imgSrc: "/images/project/hothon/florence/room/3.png" },
+                { imgSrc: "/images/project/hothon/florence/room/4.png" },
             ],
         },
 
