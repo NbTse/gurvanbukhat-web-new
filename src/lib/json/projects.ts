@@ -11,13 +11,13 @@ export const argabileg = [
         introduction: {
             name: "ГЭР БҮЛ ТӨВТЭЙ, БИЗНЕС ЗЭРЭГЛЭЛИЙН ЦОГЦОЛБОР ХОТХОН",
             desc: "Бизнес зэрэглэлийн “Арга Билиг” төсөл нь 11,000 мкв талбайд, 5 блокоос бүрдэх, 800 айлын цогцолбор хотхон юм. Тухайн бүсчлэлдээжишиг болж буй уг бүтээн байгуулалт нь оршин суугчдын хамтынхарилцааг эрхэмлэсэн коммюнити центр, насны ангилал бүхий хүүхдийн тоглоомын талбай, 270 автомашины ил зогсоол болон 250 автомашины дулаан зогсоол зэрэг оршин суугчдынхаа хэрэгцээнд тулгуурласан    архитекторын ухаалаг төлөвлөлттэй төсөл гэдгээрээ онцлогтой.  ",
-            imgSrc: "/images/project/hothon/argabileg/introduction.png",
+            imgSrc: "/images/project/hothon/argabileg/introduction.jpg",
         },
 
         choose: {
             name: "АРГА БИЛИГ ЦОГЦОЛБОР ХОТХОНГ СОНГОХ ШАЛТГААН",
             desc: "Гэр бүлийн гишүүн бүрт жаргалтай дурсамжийг бий болгох “АРГА БИЛИГ” цогцолбор хотхон.",
-            imgSrc: "/images/project/hothon/argabileg/choose.png",
+            imgSrc: "/images/project/hothon/argabileg/choose.jpg",
             reasons: [
                 {
                     name: "Айлын тоо",
@@ -102,22 +102,22 @@ export const argabileg = [
             ],
             images: [
                 {
-                    imgSrc: "/images/project/hothon/argabileg/kindergarten/1.png",
+                    imgSrc: "/images/project/hothon/argabileg/kindergarten/1.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/kindergarten/2.png",
+                    imgSrc: "/images/project/hothon/argabileg/kindergarten/2.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/kindergarten/3.png",
+                    imgSrc: "/images/project/hothon/argabileg/kindergarten/3.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/kindergarten/4.png",
+                    imgSrc: "/images/project/hothon/argabileg/kindergarten/4.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/kindergarten/5.png",
+                    imgSrc: "/images/project/hothon/argabileg/kindergarten/5.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/kindergarten/6.png",
+                    imgSrc: "/images/project/hothon/argabileg/kindergarten/6.jpg",
                 },
             ],
         },
@@ -128,39 +128,39 @@ export const argabileg = [
 
             images: [
                 {
-                    imgSrc: "/images/project/hothon/argabileg/community/1.png",
+                    imgSrc: "/images/project/hothon/argabileg/community/1.jpg",
                     text: "0-5 настай хүүхдэд зориулсан тоглоомын талбай",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/community/2.png",
+                    imgSrc: "/images/project/hothon/argabileg/community/2.jpg",
                     text: "0-5 настай хүүхдэд зориулсан тоглоомын талбай",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/community/3.png",
+                    imgSrc: "/images/project/hothon/argabileg/community/3.jpg",
                     text: "Кофе шоп",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/community/4.png",
+                    imgSrc: "/images/project/hothon/argabileg/community/4.jpg",
                     text: "Номын сан",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/community/5.png",
+                    imgSrc: "/images/project/hothon/argabileg/community/5.jpg",
                     text: "Зочид хүлээх болон тухтай уулзах хэсэг",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/community/6.png",
+                    imgSrc: "/images/project/hothon/argabileg/community/6.jpg",
                     text: "Террас дээрх мини-хөлбөмбөгийн талбай",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/community/7.png",
+                    imgSrc: "/images/project/hothon/argabileg/community/7.jpg",
                     text: "Террас дээрх мини-хөлбөмбөгийн талбай",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/community/8.png",
+                    imgSrc: "/images/project/hothon/argabileg/community/8.jpg",
                     text: "Ариун цэврийн өрөө",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/community/9.png",
+                    imgSrc: "/images/project/hothon/argabileg/community/9.jpg",
                     text: "Ширээний теннис, дартс гэх зэрэг тохижилттой амрах хэсэг",
                 },
             ],
@@ -191,39 +191,39 @@ export const argabileg = [
         },
 
         room: {
-            img: "/images/project/hothon/argabileg/room/1.png",
+            img: "/images/project/hothon/argabileg/room/1.jpg",
             images: [
-                { imgSrc: "/images/project/hothon/argabileg/room/2.png" },
-                { imgSrc: "/images/project/hothon/argabileg/room/3.png" },
-                { imgSrc: "/images/project/hothon/argabileg/room/4.png" },
-                { imgSrc: "/images/project/hothon/argabileg/room/5.png" },
-                { imgSrc: "/images/project/hothon/argabileg/room/6.png" },
-                { imgSrc: "/images/project/hothon/argabileg/room/7.png" },
-                { imgSrc: "/images/project/hothon/argabileg/room/8.png" },
-                { imgSrc: "/images/project/hothon/argabileg/room/9.png" },
-                { imgSrc: "/images/project/hothon/argabileg/room/10.png" },
-                { imgSrc: "/images/project/hothon/argabileg/room/11.png" },
-                { imgSrc: "/images/project/hothon/argabileg/room/12.png" },
+                { imgSrc: "/images/project/hothon/argabileg/room/2.jpg" },
+                { imgSrc: "/images/project/hothon/argabileg/room/3.jpg" },
+                { imgSrc: "/images/project/hothon/argabileg/room/4.jpg" },
+                { imgSrc: "/images/project/hothon/argabileg/room/5.jpg" },
+                { imgSrc: "/images/project/hothon/argabileg/room/6.jpg" },
+                { imgSrc: "/images/project/hothon/argabileg/room/7.jpg" },
+                { imgSrc: "/images/project/hothon/argabileg/room/8.jpg" },
+                { imgSrc: "/images/project/hothon/argabileg/room/9.jpg" },
+                { imgSrc: "/images/project/hothon/argabileg/room/10.jpg" },
+                { imgSrc: "/images/project/hothon/argabileg/room/11.jpg" },
+                { imgSrc: "/images/project/hothon/argabileg/room/12.jpg" },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/room/bedroom2.png",
+                    imgSrc: "/images/project/hothon/argabileg/room/bedroom2.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/room/bedroom3.png",
+                    imgSrc: "/images/project/hothon/argabileg/room/bedroom3.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/room/child-room1.png",
+                    imgSrc: "/images/project/hothon/argabileg/room/child-room1.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/room/child-room2.png",
+                    imgSrc: "/images/project/hothon/argabileg/room/child-room2.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/room/child-room3.png",
+                    imgSrc: "/images/project/hothon/argabileg/room/child-room3.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/room/closet-room1.png",
+                    imgSrc: "/images/project/hothon/argabileg/room/closet-room1.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/argabileg/room/closet-room2.png",
+                    imgSrc: "/images/project/hothon/argabileg/room/closet-room2.jpg",
                 },
             ],
         },
@@ -247,13 +247,13 @@ export const florence = [
         introduction: {
             name: "FLORENCE RESIDENCE",
             desc: "Хүүхэд багачуудын эрүүл энх өсөн торних, хөгжих, эрүүл, аюулгүй орчинг бүрдүүлэх зорилготой “Чухал бүхэнд ойр” Florence Residence төсөл нь хотын төвд хамгийн ойр, үнэ цэнтэй байршилд сүндэрлэж буй цогцолбор хотхон юм. Гэр бүлийн гишүүн бүрийн тав тухад нийцэх оновчтой зохион байгуулалттай, инженерийн зөв шийдлээр баригдаж буй 100 хувь бүрэн цутгамал, 5 блок, 600 айлын төсөл.",
-            imgSrc: "/images/project/hothon/florence/introduction.png",
+            imgSrc: "/images/project/hothon/florence/introduction.jpg",
         },
 
         choose: {
             name: "FLORENCE RESIDENCE СОНГОХ ШАЛТГААН",
             desc: "",
-            imgSrc: "/images/project/hothon/florence/choose.png",
+            imgSrc: "/images/project/hothon/florence/choose.jpg",
             reasons: [
                 {
                     name: "Айлын тоо",
@@ -332,13 +332,13 @@ export const plusresidence = [
         introduction: {
             name: "PLUS RESIDENCE",
             desc: "Улаанбаатар хотын “А” зэрэглэлийн бүсэд сүндэрлэж буй PLUS Residence нь хоёр блок, 16 давхар, лобби танхим бүхий 183 айлын бизнес зэрэглэлийн төсөл юм. Барилгуудыг холбох гурван давхар үйлчилгээний төвтэй бөгөөд террас дээр нь хүүхдийн тоглоомын талбайг шийдсэнээрээ онцгой. Цаг хугацаа, тав тухыг эрхэмлэгч, ажил хэрэгч хүмүүсийн хэрэгцээнд нийцүүлэн оффис, худалдаа үйлчилгээ, хүүхдийн цэцэрлэг, фитнес төв гэх мэт хэрэгцээт бүхнийг гэрт ойр байдлаар төлөвлөсөн.",
-            imgSrc: "/images/project/hothon/plus/introduction.png",
+            imgSrc: "/images/project/hothon/plus/introduction.jpg",
         },
 
         choose: {
             name: "PLUS RESIDENCE СОНГОХ ШАЛТГААН",
             desc: "",
-            imgSrc: "/images/project/hothon/plus/choose.png",
+            imgSrc: "/images/project/hothon/plus/choose.jpg",
             reasons: [
                 {
                     name: "Айлын тоо",
@@ -393,22 +393,16 @@ export const plusresidence = [
             desc: "Бизнес зэрэглэлийн PLUS Residence орон сууцны төсөл нь архитектурын шинэлэг шийдэл, чанартай хийцэл, төслийн А болон Б блокийг холбох 3 давхар үргэлжилсэн блок зэргээрээ бусад орон сууцаас ялгарах төсөл юм. Холбогч блокийн B1 болон 1-р давхарт айл бүрд хүрэлцээтэй автомашины дулаан зогсоолыг шийдэж өгсөн бол 2-р давхарт эрхэм таны алтан цагийг хэмнэх үүднээс дэлгүүр, ресторан, лоунж, бичиг хэрэг болон орон сууцнаасаа гаралгүй дасгал хөдөлгөөн хийх боломжит бялдаржуулах төв байгуулахаар төлөвлөсөн. 3-р давхартаа Зөвхөн PLUS Residence орон сууцны оршин суугчдын чөлөөт цаг, тав тухыг хангахуйц бүх насныханд зориулсан нэгдсэн Лобби танхимтай. Энэ танхим нь хүүхдийн тоглоомын хэсэг, залуусын номын сан, ахмадуудад зориулсан чөлөөт цагаа өнгөрүүлэх хэсгээс бүрдэх тул таны гэр бүлийн гишүүн бүрийн хэрэгцээ шаардлагад бүрэн нийцнэ.",
             images: [
                 {
-                    imgSrc: "/images/project/hothon/plus/kindergarten/1.png",
+                    imgSrc: "/images/project/hothon/plus/kindergarten/2.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/plus/kindergarten/2.png",
+                    imgSrc: "/images/project/hothon/plus/kindergarten/3.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/plus/kindergarten/3.png",
+                    imgSrc: "/images/project/hothon/plus/kindergarten/5.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/plus/kindergarten/4.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus/kindergarten/5.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus/kindergarten/6.png",
+                    imgSrc: "/images/project/hothon/plus/kindergarten/6.jpg",
                 },
             ],
         },
@@ -443,23 +437,27 @@ export const plusresidence = [
         room: {
             img: "/images/project/hothon/plus/room/1.png",
             images: [
-                { imgSrc: "/images/project/hothon/plus/room/1(1).png" },
-                { imgSrc: "/images/project/hothon/plus/room/2.png" },
-                { imgSrc: "/images/project/hothon/plus/room/2(1).png" },
-                { imgSrc: "/images/project/hothon/plus/room/3.png" },
-                { imgSrc: "/images/project/hothon/plus/room/3(1).png" },
-                { imgSrc: "/images/project/hothon/plus/room/4.png" },
-                { imgSrc: "/images/project/hothon/plus/room/4(1).png" },
-                { imgSrc: "/images/project/hothon/plus/room/5.png" },
-                { imgSrc: "/images/project/hothon/plus/room/5(1).png" },
-                { imgSrc: "/images/project/hothon/plus/room/6.png" },
-                { imgSrc: "/images/project/hothon/plus/room/7.png" },
-                { imgSrc: "/images/project/hothon/plus/room/bedroom2.png" },
-                { imgSrc: "/images/project/hothon/plus/room/bedroom3.png" },
-                { imgSrc: "/images/project/hothon/plus/room/child-room2.png" },
-                { imgSrc: "/images/project/hothon/plus/room/child-room3.png" },
+                { imgSrc: "/images/project/hothon/plus/room/1(1).jpg" },
+                { imgSrc: "/images/project/hothon/plus/room/2.jpg" },
+                { imgSrc: "/images/project/hothon/plus/room/2(1).jpg" },
+                { imgSrc: "/images/project/hothon/plus/room/3.jpg" },
+                { imgSrc: "/images/project/hothon/plus/room/3(1).jpg" },
+                { imgSrc: "/images/project/hothon/plus/room/4.jpg" },
+                { imgSrc: "/images/project/hothon/plus/room/4(1).jpg" },
+                { imgSrc: "/images/project/hothon/plus/room/5.jpg" },
+                { imgSrc: "/images/project/hothon/plus/room/5(1).jpg" },
+                { imgSrc: "/images/project/hothon/plus/room/6.jpg" },
+                { imgSrc: "/images/project/hothon/plus/room/7.jpg" },
+                { imgSrc: "/images/project/hothon/plus/room/bedroom2.jpg" },
+                { imgSrc: "/images/project/hothon/plus/room/bedroom3.jpg" },
+                { imgSrc: "/images/project/hothon/plus/room/child-room1.jpg" },
+                { imgSrc: "/images/project/hothon/plus/room/child-room2.jpg" },
+                { imgSrc: "/images/project/hothon/plus/room/child-room3.jpg" },
                 {
-                    imgSrc: "/images/project/hothon/plus/room/closet-room1.png",
+                    imgSrc: "/images/project/hothon/plus/room/closet-room1.jpg",
+                },
+                {
+                    imgSrc: "/images/project/hothon/plus/room/closet-room2.jpg",
                 },
                 { imgSrc: "/images/project/hothon/plus/room/closet-room.png" },
             ],
@@ -485,13 +483,13 @@ export const plusapartment = [
         introduction: {
             name: "PLUS RESIDENCE",
             desc: "Улаанбаатар хотын “А” зэрэглэлийн бүсэд сүндэрлэж буй PLUS Residence нь хоёр блок, 16 давхар, лобби танхим бүхий 183 айлын бизнес зэрэглэлийн төсөл юм. Барилгуудыг холбох гурван давхар үйлчилгээний төвтэй бөгөөд террас дээр нь хүүхдийн тоглоомын талбайг шийдсэнээрээ онцгой. Цаг хугацаа, тав тухыг эрхэмлэгч, ажил хэрэгч хүмүүсийн хэрэгцээнд нийцүүлэн оффис, худалдаа үйлчилгээ, хүүхдийн цэцэрлэг, фитнес төв гэх мэт хэрэгцээт бүхнийг гэрт ойр байдлаар төлөвлөсөн.",
-            imgSrc: "/images/project/hothon/plus-apartment/introduction.png",
+            imgSrc: "/images/project/hothon/plus-apartment/introduction.jpg",
         },
 
         choose: {
             name: "PLUS RESIDENCE СОНГОХ ШАЛТГААН",
             desc: "",
-            imgSrc: "/images/project/hothon/plus-apartment/choose.png",
+            imgSrc: "/images/project/hothon/plus-apartment/choose.jpg",
             reasons: [
                 {
                     name: "Айлын тоо",
@@ -546,61 +544,19 @@ export const plusapartment = [
             desc: "Дуплекс нь орон сууцыг дээд болон доод гэсэн 2 түвшинд хуваасан давхрын хуваалттай загвар юм. Энэхүү загварын төлөвлөлт нь амины орон сууцны өндөр төвшний буюу High rise орон сууцанд шингэн төлөвлөгдсөн. Маш оновчтой энэхүү төлөвлөлт нь хүнд хаусанд амьдарч буй мэь мэдрэмж төрүүлнэ.",
             images: [
                 {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/1.png",
+                    imgSrc: "/images/project/hothon/plus-apartment/duplex/1.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/1(1).png",
+                    imgSrc: "/images/project/hothon/plus-apartment/duplex/2.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/2.png",
+                    imgSrc: "/images/project/hothon/plus-apartment/duplex/3.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/2(1).png",
+                    imgSrc: "/images/project/hothon/plus-apartment/duplex/4.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/3.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/3(1).png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/4.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/4(1).png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/5.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/5(1).png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/6.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/7.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/bedroom2.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/bedroom3.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/child-room1.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/child-room2.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/child-room3.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/closet-room1.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus-apartment/kindergarten/closet-room2.png",
+                    imgSrc: "/images/project/hothon/plus-apartment/duplex/5.jpg",
                 },
             ],
         },
@@ -636,43 +592,43 @@ export const plusapartment = [
             img: "/images/project/hothon/plus-apartment/room/1.png",
             images: [
                 {
-                    imgSrc: "/images/project/hothon/plus-apartment/room/1(1).png",
+                    imgSrc: "/images/project/hothon/plus-apartment/room/1(1).jpg",
                 },
-                { imgSrc: "/images/project/hothon/plus-apartment/room/2.png" },
+                { imgSrc: "/images/project/hothon/plus-apartment/room/2.jpg" },
 
                 {
-                    imgSrc: "/images/project/hothon/plus-apartment/room/2(1).png",
+                    imgSrc: "/images/project/hothon/plus-apartment/room/2(1).jpg",
                 },
 
-                { imgSrc: "/images/project/hothon/plus-apartment/room/3.png" },
+                { imgSrc: "/images/project/hothon/plus-apartment/room/3.jpg" },
 
                 {
-                    imgSrc: "/images/project/hothon/plus-apartment/room/3(1).png",
+                    imgSrc: "/images/project/hothon/plus-apartment/room/3(1).jpg",
                 },
 
-                { imgSrc: "/images/project/hothon/plus-apartment/room/4.png" },
+                { imgSrc: "/images/project/hothon/plus-apartment/room/4.jpg" },
 
                 {
-                    imgSrc: "/images/project/hothon/plus-apartment/room/4(1).png",
+                    imgSrc: "/images/project/hothon/plus-apartment/room/4(1).jpg",
                 },
 
-                { imgSrc: "/images/project/hothon/plus-apartment/room/5.png" },
+                { imgSrc: "/images/project/hothon/plus-apartment/room/5.jpg" },
                 {
                     imgSrc: "/images/project/hothon/plus-apartment/room/5(1).png",
                 },
-                { imgSrc: "/images/project/hothon/plus-apartment/room/6.png" },
-                { imgSrc: "/images/project/hothon/plus-apartment/room/7.png" },
+                { imgSrc: "/images/project/hothon/plus-apartment/room/6.jpg" },
+                { imgSrc: "/images/project/hothon/plus-apartment/room/7.jpg" },
                 {
-                    imgSrc: "/images/project/hothon/plus-apartment/room/bedroom2.png",
+                    imgSrc: "/images/project/hothon/plus-apartment/room/bedroom2.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/plus-apartment/room/bedroom3.png",
+                    imgSrc: "/images/project/hothon/plus-apartment/room/bedroom3.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/plus-apartment/room/child-room1.png",
+                    imgSrc: "/images/project/hothon/plus-apartment/room/child-room1.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/plus-apartment/room/child-room2.png",
+                    imgSrc: "/images/project/hothon/plus-apartment/room/child-room2.jpg",
                 },
                 {
                     imgSrc: "/images/project/hothon/plus-apartment/room/child-room3.png",
@@ -706,13 +662,13 @@ export const lux = [
         introduction: {
             name: "LUX 16 АПАРТМЕНТ ",
             desc: "Лакс 16 апартмент” нь бүрэн цутгамал хийцлэл бүхий 16 давхар, нэг блок төсөл бөгөөд нэгдүгээр давхартаа үйлчилгээний төв, 2-16 дугаар давхартаа оновчтой, зөв зохион байгуулалт бүхий 2-3 өрөөний сонголттой, 105 айлын орон сууц юм. Гаднаа хүүхдийн тоглоомын талбай, автомашины зогсоолтойгоор шийдсэн нь гэр бүлийн гишүүн бүрийн хэрэгцээнд нийцсэн төлөвлөлт юм.",
-            imgSrc: "/images/project/hothon/lux16/introduction.png",
+            imgSrc: "/images/project/hothon/lux16/introduction.jpg",
         },
 
         choose: {
             name: "LUX АПАРТМЕНТ СОНГОХ ШАЛТГААН",
             desc: "Underground parking lot with a designer finish consists of 74 ergonomic parking spaces. The traffic on the parking is organized with the help of a modern navigation system using motion sensors and traffic lights..",
-            imgSrc: "/images/project/hothon/lux16/choose.png",
+            imgSrc: "/images/project/hothon/lux16/choose.jpg",
             reasons: [
                 {
                     name: "Хүүхдийн тоглоомын талбай",
@@ -748,31 +704,31 @@ export const lux = [
         },
 
         room: {
-            img: "/images/project/hothon/lux16/room/1.png",
+            img: "/images/project/hothon/lux16/room/1.jpg",
             images: [
                 {
-                    imgSrc: "/images/project/hothon/lux16/room/2.png",
+                    imgSrc: "/images/project/hothon/lux16/room/2.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/lux16/room/3.png",
+                    imgSrc: "/images/project/hothon/lux16/room/3.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/lux16/room/4.png",
+                    imgSrc: "/images/project/hothon/lux16/room/4.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/lux16/room/5.png",
+                    imgSrc: "/images/project/hothon/lux16/room/5.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/lux16/room/6.png",
+                    imgSrc: "/images/project/hothon/lux16/room/6.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/lux16/room/7.png",
+                    imgSrc: "/images/project/hothon/lux16/room/7.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/lux16/room/8.png",
+                    imgSrc: "/images/project/hothon/lux16/room/8.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/lux16/room/15.png",
+                    imgSrc: "/images/project/hothon/lux16/room/15.jpg",
                 },
             ],
         },
@@ -797,13 +753,13 @@ export const admiral = [
         introduction: {
             name: "АДМИРАЛ АПАРТМЕНТ ",
             desc: "Оршин суугчдын аюулгүй байдал, тав тухыг хангасан 16 давхар 144 айлын орон сууцны төсөл юм.",
-            imgSrc: "/images/project/hothon/admiral/introduction.png",
+            imgSrc: "/images/project/hothon/admiral/introduction.jpg",
         },
 
         choose: {
             name: "АДМИРАЛ АПАРТМЕНТ ХОТХОНГ СОНГОХ ШАЛТГААН",
             desc: "Гэр бүлийн гишүүн бүрт жаргалтай дурсамжийг бий болгох “АРГА БИЛИГ” цогцолбор хотхон.",
-            imgSrc: "/images/project/hothon/admiral/choose.png",
+            imgSrc: "/images/project/hothon/admiral/choose.jpg",
             reasons: [
                 {
                     name: "Блокын тоо",
@@ -839,25 +795,25 @@ export const admiral = [
         },
 
         room: {
-            img: "/images/project/hothon/admiral/room/1.png",
+            img: "/images/project/hothon/admiral/room/1.jpg",
             images: [
                 {
-                    imgSrc: "/images/project/hothon/admiral/room/2.png",
+                    imgSrc: "/images/project/hothon/admiral/room/2.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/admiral/room/3.png",
+                    imgSrc: "/images/project/hothon/admiral/room/3.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/admiral/room/4.png",
+                    imgSrc: "/images/project/hothon/admiral/room/4.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/admiral/room/5.png",
+                    imgSrc: "/images/project/hothon/admiral/room/5.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/admiral/room/6.png",
+                    imgSrc: "/images/project/hothon/admiral/room/6.jpg",
                 },
                 {
-                    imgSrc: "/images/project/hothon/admiral/room/7.png",
+                    imgSrc: "/images/project/hothon/admiral/room/7.jpg",
                 },
             ],
         },
@@ -882,13 +838,13 @@ export const dalanzadgad = [
         introduction: {
             name: "ДАЛАНЗАДГАД АПАРТМЕНТ 2",
             desc: "Даланзадгад Апартмент нь оршин суугчдын аюулгүй байдал, тав тухыг хангасан, олон жилийн туршлагатай, мэргэшсэн хамт олны гүйцэтгэж буй 24 айлын орон сууцны төсөл юм.",
-            imgSrc: "/images/project/hothon/dalanzadgad/introduction.png",
+            imgSrc: "/images/project/hothon/dalanzadgad/introduction.jpg",
         },
 
         choose: {
             name: "ДАЛАНЗАДГАД АПАРТМЕНТ 2 СОНГОХ ШАЛТГААН",
             desc: "Гэр бүлийн гишүүн бүрт жаргалтай дурсамжийг бий болгох “АРГА БИЛИГ” цогцолбор хотхон.",
-            imgSrc: "/images/project/hothon/dalanzadgad/choose.png",
+            imgSrc: "/images/project/hothon/dalanzadgad/choose.jpg",
             reasons: [
                 {
                     name: "Блокын тоо",
@@ -924,18 +880,18 @@ export const dalanzadgad = [
         },
 
         room: {
-            img: "/images/project/hothon/dalanzadgad/room/1.png",
+            img: "/images/project/hothon/dalanzadgad/room/1.jpg",
             images: [
                 {
-                    imgSrc: "/images/project/hothon/dalanzadgad/room/2.png",
+                    imgSrc: "/images/project/hothon/dalanzadgad/room/2.jpg",
                 },
-                { imgSrc: "/images/project/hothon/dalanzadgad/room/3.png" },
-                { imgSrc: "/images/project/hothon/dalanzadgad/room/4.png" },
-                { imgSrc: "/images/project/hothon/dalanzadgad/room/5.png" },
-                { imgSrc: "/images/project/hothon/dalanzadgad/room/6.png" },
-                { imgSrc: "/images/project/hothon/dalanzadgad/room/7.png" },
-                { imgSrc: "/images/project/hothon/dalanzadgad/room/8.png" },
-                { imgSrc: "/images/project/hothon/dalanzadgad/room/15.png" },
+                { imgSrc: "/images/project/hothon/dalanzadgad/room/3.jpg" },
+                { imgSrc: "/images/project/hothon/dalanzadgad/room/4.jpg" },
+                { imgSrc: "/images/project/hothon/dalanzadgad/room/5.jpg" },
+                { imgSrc: "/images/project/hothon/dalanzadgad/room/6.jpg" },
+                { imgSrc: "/images/project/hothon/dalanzadgad/room/7.jpg" },
+                { imgSrc: "/images/project/hothon/dalanzadgad/room/8.jpg" },
+                { imgSrc: "/images/project/hothon/dalanzadgad/room/15.jpg" },
             ],
         },
 
