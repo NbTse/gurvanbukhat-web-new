@@ -237,48 +237,48 @@ export const argabileg = [
 export const florence = [
     {
         hero: {
-            name: "БИЗНЕС ЗЭРЭГЛЭЛИЙН ЦОГЦОЛБОР ХОТХОН",
-            title: "PLUS RESIDENCE",
-            videoSrc: "/videos/plus-residence.mp4",
-            contact: "7509-2222",
+            name: "СТАНДАРТ БОЛОН ДУПЛЕКСИЙН ХОСЛОЛ",
+            title: "FLORENCE RESIDENCE",
+            videoSrc: "/videos/florence.mp4",
+            contact: "7000-7000",
             social: "https://www.facebook.com/Plusresidencesales",
         },
 
         introduction: {
-            name: "PLUS RESIDENCE",
-            desc: "Улаанбаатар хотын “А” зэрэглэлийн бүсэд сүндэрлэж буй PLUS Residence нь хоёр блок, 16 давхар, лобби танхим бүхий 183 айлын бизнес зэрэглэлийн төсөл юм. Барилгуудыг холбох гурван давхар үйлчилгээний төвтэй бөгөөд террас дээр нь хүүхдийн тоглоомын талбайг шийдсэнээрээ онцгой. Цаг хугацаа, тав тухыг эрхэмлэгч, ажил хэрэгч хүмүүсийн хэрэгцээнд нийцүүлэн оффис, худалдаа үйлчилгээ, хүүхдийн цэцэрлэг, фитнес төв гэх мэт хэрэгцээт бүхнийг гэрт ойр байдлаар төлөвлөсөн.",
-            imgSrc: "/images/project/hothon/plus/introduction.png",
+            name: "FLORENCE RESIDENCE",
+            desc: "Хүүхэд багачуудын эрүүл энх өсөн торних, хөгжих, эрүүл, аюулгүй орчинг бүрдүүлэх зорилготой “Чухал бүхэнд ойр” Florence Residence төсөл нь хотын төвд хамгийн ойр, үнэ цэнтэй байршилд сүндэрлэж буй цогцолбор хотхон юм. Гэр бүлийн гишүүн бүрийн тав тухад нийцэх оновчтой зохион байгуулалттай, инженерийн зөв шийдлээр баригдаж буй 100 хувь бүрэн цутгамал, 5 блок, 600 айлын төсөл.",
+            imgSrc: "/images/project/hothon/florence/introduction.png",
         },
 
         choose: {
-            name: "PLUS RESIDENCE СОНГОХ ШАЛТГААН",
+            name: "FLORENCE RESIDENCE СОНГОХ ШАЛТГААН",
             desc: "",
-            imgSrc: "/images/project/hothon/plus/choose.png",
+            imgSrc: "/images/project/hothon/florence/choose.png",
             reasons: [
                 {
                     name: "Айлын тоо",
                     type: 1,
-                    count: "183",
-                },
-                {
-                    name: "Үйлчилгээний талбай",
-                    type: 2,
-                    count: "11000м2",
+                    count: "600",
                 },
                 {
                     name: "Дулаан зогсоол",
                     type: 2,
-                    count: "78",
+                    count: "60",
+                },
+                {
+                    name: "Ил зогсоол",
+                    type: 2,
+                    count: "150",
+                },
+                {
+                    name: "Үйлчилгээний талбай",
+                    type: 1,
+                    count: "2700м2",
                 },
                 {
                     name: "Хүүхдийн тоглоомын талбай",
                     type: 1,
-                    count: "1",
-                },
-                {
-                    name: "Ил зогсоол",
-                    type: 1,
-                    count: "46",
+                    count: "3",
                 },
             ],
         },
@@ -290,68 +290,15 @@ export const florence = [
             images: [
                 {
                     imgSrc: "/images/project/hothon/plus/advantages/1.png",
-                    text: "Хотын А зэрэглэлийн бүс",
+                    text: "Хүүхдэд ээлтэй орчин",
                 },
                 {
                     imgSrc: "/images/project/hothon/plus/advantages/2.png",
-                    text: "Амар тайван, аюулгүй орчин",
+                    text: "Сургууль, цэцэрлэг, төрийн байгууллагуудтай ойрхон",
                 },
                 {
                     imgSrc: "/images/project/hothon/plus/advantages/3.png",
-                    text: "Орон сууц, үйлчилгээ хосолсон бизнес консепци",
-                },
-            ],
-        },
-
-        kindergarten: {
-            name: "PLUS CENTER БУЮУ C БЛОК",
-            desc: "Бизнес зэрэглэлийн PLUS Residence орон сууцны төсөл нь архитектурын шинэлэг шийдэл, чанартай хийцэл, төслийн А болон Б блокийг холбох 3 давхар үргэлжилсэн блок зэргээрээ бусад орон сууцаас ялгарах төсөл юм. Холбогч блокийн B1 болон 1-р давхарт айл бүрд хүрэлцээтэй автомашины дулаан зогсоолыг шийдэж өгсөн бол 2-р давхарт эрхэм таны алтан цагийг хэмнэх үүднээс дэлгүүр, ресторан, лоунж, бичиг хэрэг болон орон сууцнаасаа гаралгүй дасгал хөдөлгөөн хийх боломжит бялдаржуулах төв байгуулахаар төлөвлөсөн. 3-р давхартаа Зөвхөн PLUS Residence орон сууцны оршин суугчдын чөлөөт цаг, тав тухыг хангахуйц бүх насныханд зориулсан нэгдсэн Лобби танхимтай. Энэ танхим нь хүүхдийн тоглоомын хэсэг, залуусын номын сан, ахмадуудад зориулсан чөлөөт цагаа өнгөрүүлэх хэсгээс бүрдэх тул таны гэр бүлийн гишүүн бүрийн хэрэгцээ шаардлагад бүрэн нийцнэ.",
-            images: [
-                {
-                    imgSrc: "/images/project/hothon/plus/kindergarten/1.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus/kindergarten/2.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus/kindergarten/3.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus/kindergarten/4.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus/kindergarten/5.png",
-                },
-                {
-                    imgSrc: "/images/project/hothon/plus/kindergarten/6.png",
-                },
-            ],
-        },
-        equipment: {
-            list: [
-                {
-                    name: "Солонгосын алдарт Hyundai брэндийн дотор хаалга",
-                    imgSrc: "/images/project/hothon/plus/equipments/6.png",
-                },
-                {
-                    name: "Хятад улсын шилдэг технологи бүхий гэрийн ухаалаг систем",
-                    imgSrc: "/images/project/hothon/plus/equipments/5.png",
-                },
-                {
-                    name: "Турк улсын дэвшилтэт, технологийн панель радиатор",
-                    imgSrc: "/images/project/hothon/plus/equipments/3.png",
-                },
-                {
-                    name: "Хятад улсын нэрийн хуудас болсон Porta брэндийн сангийн тоноглол",
-                    imgSrc: "/images/project/hothon/plus/equipments/2.png",
-                },
-                {
-                    name: "Хүний биед харшил өгдөггүй эко ханын цаас",
-                    imgSrc: "/images/project/hothon/plus/equipments/4.png",
-                },
-                {
-                    name: "Солонгосын алдарт Hyundai брэндийн дотор хаалга",
-                    imgSrc: "/images/project/hothon/plus/equipments/1.png",
+                    text: "Зах зээлийн бодит үнэ / Зөв хөрөнгө оруулалт",
                 },
             ],
         },
@@ -381,8 +328,8 @@ export const florence = [
         },
 
         contact: {
-            name: "Plus residence борлуулалтын албатай холбогдох:",
-            number: "75092222",
+            name: "Florence residence борлуулалтын албатай холбогдох:",
+            number: "70007000",
         },
     },
 ];
