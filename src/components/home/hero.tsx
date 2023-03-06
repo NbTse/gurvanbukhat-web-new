@@ -33,7 +33,7 @@ const Hero = () => {
                     </motion.div>
 
                     <CustomMotion>
-                        <p className="py-12 text-[#B2B2B2] text-2xl lg:text-3xl text-justify">
+                        <p className="py-12 text-2xl text-justify text-gray-300 lg:text-3xl">
                             “Гурван Бухат Групп” ХХК нь салбартаа 13 жилийн
                             туршлагатай Үндэсний бүтээн байгуулагч групп компани
                             юм.
